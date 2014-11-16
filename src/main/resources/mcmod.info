@@ -1,0 +1,15 @@
+[
+{
+  "modid": "jsfgblaster",
+  "name": "JSFGBlaster",
+  "description": "JStar JSFGBlaster Card for OpenComputers allows playing synthesized sounds",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["gamax92"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
